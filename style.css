@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(14, 131, 167);
+    color:rgb(48, 30, 71);
+    font-size:30px;
+}
+h1{
+    color:rgb(247, 241, 244);
+    font-size: 40px;
+}
+span{
+    color:rgb(173, 255, 47);
+    font-weight: bold;
+    font-size:34px
+}
